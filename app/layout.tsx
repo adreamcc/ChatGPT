@@ -11,7 +11,7 @@ const serverConfig = getServerSideConfig();
 
 export const metadata: Metadata = {
   title: "Ai.Gbrain",
-  description: "Your personal ChatGPT Chat Bot.",
+  description: "AI.ZZ52.CN",
   appleWebApp: {
     title: "Ai.Gbrain",
     statusBarStyle: "default",
